@@ -1,0 +1,199 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="#4dbddd"
+    tools:context=".dashboard">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="#02445c"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/rel"
+            android:layout_width="match_parent"
+            android:layout_height="121dp">
+            <TextView
+                android:id="@+id/highScoreText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+                android:layout_alignParentTop="true"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:text="High Score:\n"
+                android:textColor="#fff"
+                android:fontFamily="@font/reliable_demo"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+            <ImageView
+                android:id="@+id/updateLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/ic_system_update_black_24dp" />
+
+            <ImageView
+                android:id="@+id/shareLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/ic_share_black_24dp" />
+
+            <ImageView
+                android:id="@+id/volumeControlUp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="16dp"
+                android:src="@drawable/ic_volume_up_black_24dp" />
+            <ImageView
+                android:id="@+id/help"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_toRightOf="@id/volumeControlUp"
+                android:layout_margin="16dp"
+                android:src="@drawable/ic_help_black_24dp" />
+
+
+        </RelativeLayout>
+        <GridLayout
+            android:id="@+id/somnetGrid"
+            android:layout_width="match_parent"
+            android:layout_height="210dp"
+            android:layout_weight="20"
+            android:alignmentMode="alignMargins"
+            android:background="#4dbddd"
+            android:columnCount="3"
+            android:columnOrderPreserved="false"
+            android:padding="14dp"
+            android:rowCount="5">
+            <!-- row1 -->
+            <!-- column1 -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/levelEasy"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="7dp"
+                app:cardBackgroundColor="@color/colorAccent"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/easy"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/easy" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_margin="16dp"
+                    android:orientation="vertical">
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+            <!-- column1 -->
+            <!-- column1 -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/levelMedium"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="7dp"
+                app:cardBackgroundColor="@color/colorAccent"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:id="@+id/medium"
+                    android:src="@drawable/medium" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_margin="16dp"
+                    android:orientation="vertical">
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+            <!-- column1 -->
+            <!-- column1 -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/levelHard"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="7dp"
+                app:cardBackgroundColor="@color/colorAccent"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:id="@+id/hard"
+                    android:src="@drawable/hard" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_margin="16dp"
+                    android:orientation="vertical">
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+            <!-- column1 -->
+
+        </GridLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#02445c"
+            android:drawablePadding="-10dp"
+            android:fontFamily="@font/reliable_demo"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:text="There are at least two kinds of games. One could be called finite, the other infinite. A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play."
+            android:textAlignment="center"
+            android:textAppearance="@style/AppTheme"
+            android:textColor="#fff"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+</ScrollView>

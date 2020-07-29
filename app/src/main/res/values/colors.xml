@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00B0FF</color>
+    <color name="colorPrimaryDark">#273DBE</color>
+    <color name="colorAccent">#273DBE</color>
+    <color name="colorLightBlue">#00B0FF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorButtons">#FF3D00</color>
+    <color name="colorGreen">#0a8e26</color>
+    <color name="colorCustomUser">#273DBE</color>
+
+
+    <array name="array_dot_active">
+        <item>@color/colorGreen</item>
+        <item>@color/colorGreen</item>
+        <item>@color/colorGreen</item>
+        <item>@color/colorGreen</item>
+        <item>@color/colorGreen</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/colorButtons</item>
+        <item>@color/colorButtons</item>
+        <item>@color/colorButtons</item>
+        <item>@color/colorButtons</item>
+        <item>@color/colorButtons</item>
+    </array>
+
+</resources>

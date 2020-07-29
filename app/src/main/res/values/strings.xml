@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Somali Helicopter</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip All</string>
+    <string name="start">Start</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+</resources>

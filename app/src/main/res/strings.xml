@@ -1,0 +1,508 @@
+<resources>
+    <string name="app_name">Somacopter</string>
+    <string name="next">Hore Usoco</string>
+    <string name="skip">Skip All</string>
+    <string name="start">Dhamaad</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="oraah_wacan_slide_one">Dalkeenu markuu burburay, Dul iyo hoos buu qarxaday Maxaan dawladnimooy ku
+        tabay\nDaleesha adigoo fadhiya, Maxaan duqsi kuula jeclaa, Inayn duulxumooy ku arkay, Maxaan Duco kuu aqriyay,
+        Balaayo xijaab ku daray.
+    </string>
+    <string name="oraah_waca_slide_two"><b>Haddii dadku aanay ku kalsoonaan karin xukuumaddooda, ma awoodi doonaan inay
+        ilaaliyaan daryeelkooda guud - dhammaantood way lumaan\n--farhanmadka</b>.
+    </string>
+    <string name="title_activity_admin_home">AdminHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="boldFont">
+        <b>Taariikhda Lawargeliyay:</b>
+    </string>
+    <!--my text -->
+    <string name="heesta_waxbarta">Wada dadaalka, haka weecan, \nsoomaali weyney wacad baan ku
+        qaadnay. \nGuul wacan,
+        Cadowga waabta, Waddan Barwaaqo, \nNabad laguu wadaagoo.Haku waaro Waajibkeenaa..
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user_dashboard">UserDashboard</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="aadanCabdulle">
+        Aadan Cabdulle Cismaan Daar (dhashay 1908; geeriyooday Juun 8, 2007), wuxuu ahaa siyaasi
+        Soomaaliyeed, hogaamiye qaran, iyo Madaxweynihii koowaad ee Jamhuuriyada Soomaaliya kaasi
+        oo xilka hayay 1dii Luuliyo 1960 ilaa 10kii Juun, 1967.\n\n\nAadan Cadde waxaa uu ku
+        dhashey magaalada Beledweyne ee dalka Soomaaliya sanadkii 1908.\n
+        Wuxuuna ku geeriyoodey magaalada Nayroobi ee dalka Kenya 8 Juun 2007. \nWuxuu
+        waxbarashadiisii dugsiyada Qur aanka, dugsiyada hoose, dhexe ku qaatay magaalada
+        Muqdisho. \n\n\n
+        Wuxuuna sameyay dhaqdhaqaaq ganacsi intii uusan ku biirin ka hor xisbigii
+        Leegada ee SYL bishii Febraayo sanadkii 1944. \nSanadkii 1946 wuxuu ka mid noqday xubnihii maamulka ee xisbigaas, waxaa loo doortay in uu noqdo xoghayaha xisbigaas ee degmada Beledweyne. Wuxuu sanadkii 1951 noqday maamulihii gobolka Mudug, halkaas oo uu wakiil buuxdana uga ahaa xisbigii Leegada illaa laga soo gaaro sanadkii 1953. \n
+        \n\nSanadkii 1953 waxaa Gumaysigii Talyaanigu u xushay in uu noqdo ku xigeenka maamulkii
+        maxmiyadda ee loo yaqaanay Territorial Council, sidoo kale 1954 waxaa loo doortay
+        guddoomiyihii xisbiga Leegada xilkaasina uu hayay illaa laga soo gaaro bishii Febraayo
+        1956. \n\n\n
+        Bishii Maajo sanadkii 1958 waxaa loo doortay mar kale xilka ugu sarreeya ee
+        xisbigii Leegada iyo guddoomiyihii golihii lagu magacaabi jirey Somali Legislative
+        Assembly, xilkaasina uu hayay illaa 1dii bishii Luuliyo sanadkii 1960. \n\n
+        Sanadkii 1956
+        waxaa golihii lagu magacaabi jirey Territorial Council waxaa lagu badalay Legislative Assembly, waxaa mar kale Talyaanigu gacan ku siiyey in uu noqdo xubin ka tirsan golahaasi, waxaana laga soo doortay magaalada Beledweyne ee dalka Soomaaliya doorashooyinkii ka dhacay, doorashadaasi ka dibna waxaa loo doortay in uu noqdo guddoomiyihii Somali Legislative Assembly.
+    </string>
+    <string name="cabdirashidCaliSharmarke">
+        Cabdirashiid Cali Sharmaarke wuxuu dalka Soomaaliya madaxweyne ka ahaa taariikhdu
+            marka
+            ay ahayd 10 Luuliyo sanadkii 1967. Waxaa la dilay 15kii Oktoobar 1969kii.(Allaha U
+        naxariisto)\n\nTaariikh-da Madaxweynaha\n
+Cabdirashiid Cali Sharmaarke wuxuu ku dhashay degmada Xaradheere ee gobolka Mudug sanadkii 1919.\n
+Wuxuu dugsiga Quraanka iyo waxbarashadiisii dhameeyay sanadkii 1936dii, wuxuu bilaabay in uu noqdo ganacsade ka dibna shaqaale ka shaqeeya howlaha maamulkii Talyaaniga ee maxmiyadda, wuxuu noloshiisa ku qaatay wixii intaas ka dambeeyay magaalada Muqdisho.\n
+Wuxuu ka mid noqday ururkii dhalinyarada Soomaaliyeed ee loo yaqaanay Somali Youth League(SYL)
+        waxyar ka dib markii la aasaasay sanadkii 1943dii, wuxuuna ku biirey maamulkii Ingiriiska
+        ee Soomaaliya.\n\n\n
+Wuxuu waxbarashadiisii dugsiga sare dhameystay 1953dii, isagoo wali la shaqeynaya maamulkii maxmiyada ee Talyaaniga, wuxuuna helay deeq waxbarasho ah dalka Talyaaniga gaar ahaan Jaamacadda Rooma “La Sapienza”, halkaas oo uu ka qalin jabiyay sanadka markuu ahaa 1958dii, wuxuuna sanad ka dib ku soo laabtay dalka Soomaaliya, ka dibna waxaa loo doortay in uu noqdo xubin ka tirsan Golihii lagu magacaabi jirey Somali Legislative Assembly.\n
+Markii ay Soomaaliya noqotay dal madaxbannaan 1dii bishii July 1960kii, wuxuu noqday Ra’iisul
+        wasaarihii ugu horreeyay ee ay yeelato dalka Jamhuuriyadda Soomaaliya.\n\n\n
+Wuxuu markiiba bilaabay in uu dadaal u galo sidii uu guulaysan lahaa dhinaca arrimaha dibadda,
+        wuxuuna dalka Ra’iisul Wasaare ka ahaa illaa 1964tii.\n\n\n
+Ka dib doorashooyin dalka ka dhacay wuxuu mar kale noqday xubin ka tirsan baarlamaanka Soomaaliya. Sanadkii 1967dii doorashooyin la qabtay laguna dooranayay madaxweyne cidda ka noqoneysa dalka ayaa loo doortay in uu dalka Madaxweyne ka noqdo, ka dib markii doorashooyinkii dhacay uu kaga guuleystay madaxweynihii xilka kaga horreeyay ee Soomaaliya Aadan Cabdulle Cusmaan “Aadan Cadde”, wuxuuna xafiiska kala wareegay isla sanadkaas oo ku beegan 10kii Luuliyo 1967kii.\n\n
+
+Labo sano ka dib markii uu dalka Madaxweyne ka noqday ayaa askari ka tirsan ciidamadii ilaalada
+        ka hayay ayaa toogasho ku dilay 15kii bishii Oktoobar 1969kii. Isagoo booqanaya gobolada
+        Waqooyiga Soomaaliya halkaas oo ay abaaro ka dhaceen.\n\n\n
+        Lix maalmood ka dib markii dilku dhacay ayay ciidamadii dalka talada xoog kula wareegeen
+        iyada oo wali lagu jiro baroordiiqda madaxweynahaasi la dilay. \n\n\nWaxaana 21kii Oktoobar
+        1969kii dalka Madaxweyne ka noqday S/Gaas Max’ed Siyaad Barre oo ka tirsanaa Ciidanka Xoogga dalka Soomaaliya.\n
+
+\n\t\t\t\Allaha unnaxariisto..
+    </string>
+    <string name="siyaadBarre">
+        Maxamed Siyaaad Barre (Af-Ingiriis:
+Mohamed Siad Barre; Af-Carabi: محمد سياد
+بري ) wuxuu ahaa Madaxweynihii 3aad ee
+Soomaaliya (21 Oktoobar 1969 - 26
+Jannayo 1991); kaligii-teliye ciidanka
+xooga sanadihii 1969kii ilaa 1991dii. \n\n\n
+        Jaale Maxamed Siyaad Barre wuxuu ku dhashay
+magaalada Garbahaarey, Gedo bishiii
+Oktoobar 6 ee 1919kii; wuxuu ku dhintey
+magaalada Lagos ee dalka Nigeria bishii
+Janaayo 2 ee sanadkii 1995dii asagoo ah
+75 sano jir. \n\n\n
+        Wakhti ay xamaasad
+siyaasadeed ka taagneyd wadanka
+Soomaaliya ayaa 1969kii koox ciidanka
+xooga ah oo uu hogaaminayo Jaale Barre
+af-gembi lama filaan ah ku qabsadeen
+awooda wadanka ayaga oo hal habeen ku
+qabsadey magaalo madaxda Muqdisho,
+halkaasi ooy kaga dhawaaqeen dowladii
+Kacaanka Umada Soomaaliya.\n\n\n
+
+        Jaale Barre
+wuxu wadanka u hor kacay horumar
+degdeg ah oo muuqda, ayadoo si iskaawax-
+u-qabso ah loo dhisey wadooyinka,
+dugsiyada, xarumaha bulshada,
+cusbitaalada IWM. Sidoo kale waxaa
+dowladu la wareegtay maamulka iyo faro
+ku heynta bangiyada, beeraha waaweyn,
+shirkadaha muhiimka ah, wershadaha iyo
+dhamaan wixii muhiim ahaa sida
+ganacsiga iyo baayac-mushtarka. \n\n\nDowladu
+waxay si qeexan u mamnuucdey
+qabyaalada, qoloqoleeysiga iyo iskalasooca
+bulshada Soomaaliyeed dhexdeeda
+ah taasi oo si shaaric ah loo aasay
+qabyaalada, isla markaana lagu
+dhawaaqey in shacabka wadanku siman
+yihiin meel kasta ooy ka soo jeedaan ama
+qolo kasta ooy ku abtirsadaan.\n\n\n
+Waxyaabaha ugu waawayn ee Kacaankii
+Umada Soomaaliyeed ku soo kordhiyeen
+waxay ahayd hirgelinta qoritaanka Far
+Soomaaliga, taasi oo noqotey mid
+dhaxalgal u ah bulsho weynta ku hadasha
+luuqada Af-Soomaaliga.\n\n\n Si loo fidiyo oo
+loo kobciyo qoritaanka luuqada
+Soomaaliga ayaa dowladu waxay
+samaysay Ololihii Af-Soomaaliga ee
+bilaabmey sanadkii 1974tii, wakhtigaasi
+oo dugsiyada la xidhey si 25,000 oo arday
+iyo 3,000 askarta ciidanka xooga ah u
+tegaan miyi iyo magaalo si ay u soo
+baraan qoritaanak farta cusub e Af-
+Soomaaliga. Dhowrkii sano ee xigay
+waxaa dowladu ka gaadhay heer sare
+ololahaas baritaanka farta Soomaaliga
+iyada oo sii kordhisey dadaalkii iyo
+tababaradii.\n\n\n
+
+        Sanadihii badnaa ee Jaale Maxamed
+Siyaad Barre hayay talada wadanka
+Soomaaliya wuxuu gaadhsiiyey umada iyo
+wadanka Soomaaliya heerkii ugu sareeyay
+ee Soomaali waligeed gaadho. Waxaa
+horumar muuqda lagu sameeyay wax soo
+Diinta Islaam (sunni)
+saarka wadanka ayadoo la dhisey
+wershado faro badan.\n\n\nXaga ciidanka
+xooga iyo kuwa qalabka sida aad ayaa loo
+dhisay, waxayna Soomaaliya ka mid
+noqotey shanta wadan ee ugu awooda
+badan qaarada Afrika. Dhaqaalaha,
+waxbarashada, caafimaadka iyo
+shaqooyinka ayaa si xoowli ah u koray.
+Dadka Soomaalida oo 90% reer baadiye
+ahaa ayaa noqdey ilaa 40% reer magaal
+aqoon leh.\n\n\n
+Si kastaba ha ahaatee, 21 sano oo xukun
+milatari ka dib ayaa xoogii Kacaanka
+Umada Soomaaliya lagu khasbey ineey ka
+baxaan magaalo madaxda wadanaka
+midaasi ooy ka dambeeyeen ururo
+mucaarid iyo dagaalyahano qabiilo u
+dagaalamaya. Bishii Janaayo 26keedii ee
+1991kii ayaa Jaale Maxamed Siyaad Barre
+ka degay maamulka iyo talada dowladii
+kacaanka ee ka talineeysay wadanka
+Soomaaliya, asaga oo wadanka ka baxay.\n\n\n
+Madaxweyne Siyaad Barre asagoo 75
+sanno jir ah wuxuu ku geeriyooday
+magaalada Lagos ee wadanka Nayjeriya
+bishii Oktoobar 26keedii sanadkii 1995kii.
+Marxuumka waxaa lagu aasay gobolka uu
+u dhashay ee Geddo.\n
+        \n\n\t\tTaariikh\n\n
+Madaxweyne Maxamed Siyaad Barre oo
+yaraantiisiahaaa wiil yar oo reer baadiye
+ah ayaa markii ugu horeysay waxuu yimid
+Degmada Dhuuso Mareeb, wuxuuna uga
+sii gudbay magaalada Beledweyne,
+wuxuuna nasiib wanaag la kulmay askar
+halkaa lagu qoraayay oo uu ka mid noqday
+dadkii ciidamadii dhibowga 1936-dii ku
+galay xerada tababarada ee Beledwenye.\n\n\n
+Max’ed Siyaad Bare Markii tababarki uu
+dhamaaday waxaa loo soo bedelay
+Magaalada Muqdisho, waxaana la keenay
+si uu tababaro dheeri ah oo ciidanimo ugu
+sii qaato Xeradii Ciidamada ee ku taalay
+degmada Xamar Jajab ee Magaalada
+Muqdisho. Max’ed Siyaad Bare wuxuu ka
+tagay howshii ciidanimada 1939-kii, kaddib
+markii loo soo sheegay geeridii laba
+adeeradiis ah oo kale ahaa Jaamac Bare
+iyo Maxamed Bare wuxuuna aaday
+deegaanka Ulasan ee ka tirsan Degmada
+Dhuuso Mareeb oo cidiisu degenaayeen.\n\n\n
+Max’ed Siyaad Bare miyiga ayuu degey
+wuxuuna ku guursaday Xaaskiisii ugu
+horeeysay oo lagu magacaabo jiray
+Faadumo Aw-Muse Sanadkii 1941-dii
+markaas oo uu Ingiriisku kala wareegay
+awoodii dalka Soomaaliya Taliskii
+Talyaaniga oo dagaalkii aduunweynaha
+labaad looga itaal roonaaday. Max’ed
+Siyaad Bare isla sanadkaas wuxuu ku
+biiray Ciidamada Ingiriiska, wuxuuna
+dalacaadii ugu horeysay oo aheyd Alifle
+helay Sanadkii 1941-dii, Alifkii labaadna
+wuxuu qaatay Sanadkii 1944tii, waxaana
+waxbarasho loogu diray Magaalada
+Nairobi Dugsiga la yiraahdo
+“Gin School” waxaana tababarkaas kaddib
+uu noqday kormeere Koowaad 1950-kii.\n\n\n
+Markii Talyaaniga Dalka uu ku soo noqday,
+Max’ed Siyaad Bare oo saddex xarigle ah
+waxaa loo qaaday dalka Talyaaniga
+sanadkii 1952-dii .
+16-kii October, 1954-tii ayuu Siyaad Bare
+qaatay Xidigtii ugu horeesay uuna noqday
+Sarkaal. Siyaad Bare wuxuu laba xidigle u
+dalacay sanadii 1955-tii asigoo sanadki
+1957-dii noqday kabtan ama Dhamme
+kaddib 1958-dii waxaa uu Max’ed Siyaad
+Bare noqday Dhamme ka tirsan Ciidanka
+Booliska Soomaaliyeed. waxaana loo
+magacaabay Xafiiska Ciidanka Booliska
+Soomaaliyeed.\n\n\n
+1960-kii, waxaa la dhisay Ciidanka Xooga
+Dalka Soomaaliya uuna hogaaminaayay
+Generaalkii sida aadka ah loo jeclaa
+Generaal Daauud C/laahi Xersi oo markii
+uu geeriyooday sanadkii 1965tii uu
+bedelay oo jagadiisii qabtay General
+Max’ed Siyaad Bare asigoo noqday taliyihii
+Xooga Dalka Soomaaliya (XDS) isagoo
+xukunka hayay mudo 21 sano ah, wuxuuna
+ku geeriyooday Dalka Nigeria oo uu
+magangalyo ku joogay ilaa iyo sanadkii
+1995-tii.\n\n\n
+Lama yaqaan waqti cayiman oo uu
+dhashay General Max’ed Siyaad Bare,
+sababtoo ah wuxuu ku dhashay MIYI,
+xataa waxaa dood ka taagan tahay halka
+uu ku dhashay inkastoo warbaahinta
+rasmiga ah ee Kacaanku ay qori jireen inuu
+ku dhashay deegaanka Baardheere.
+Waxaa la qiyaasayaa in Max’ed Siyaad
+Bare uu dhashay sanadkii 1912-kii in
+kastoo wargeysyada rasmiga ah ee
+Kacaanku ay qori jireen inuu dhashay
+sanadkii 1920kii.\n\n\n
+Max’ed Siyaad Bare hooyadiis waxaa la
+oran jiray Shaqlan Warfaa, waxeyna
+geeriyootay asagoo sideed jir ah,
+aabihiisna wuxuu geeriyooday 2 sano
+kaddib Max’ed Siyaad Bare oo 10 jir ah,
+waxaana soo koriyay aderkiis Xirsi Bare
+iyo ayeeydiis Sacdiyo, wuxuuna ahaa
+curudka aabihiis Siyaad Bare oo lagu
+naaneesi jiray “Siyaad Garba Weyne”,
+inkastoo ay dadkii yaqaanay Max’ed
+Siyaad Bare ay sheegeen in aabihiis Siyaad
+Bare lagu dilay dagaal qabiil uuna ahaa
+abaanduulihii colkaas. Waxaa Radio
+Muqdisho iyo Wargeysyada Kacaankuba
+ay qori jireen in uu Siyaad Bare ahaa
+halgamaa weyn uuna ka mid ahaa
+Ciidamadii uu hogaaminaayay Cumar
+Samatar oo gumeysigii Talyaanigu la
+dagaalamayay una ku shahiiday aagga
+Ceel Mirikh oo ku yaalo deegaanka
+Dhuuso Mareeb 1930-kii .\n\n\n
+Xersi Bare oo ahaaa Max’ed Siyaad Bare
+adeerkiis, ahana ninkii gacanta ku haayay
+waxaa la dilay 3 sano ka dib dhimashaddii
+Siyaad Bare abaarihii sanadkii 1933-dii.
+Sanadkii 1936-dii ayaa Max’ed Siyaad Bare
+ka soo tagay Xoolihii MIYIGA oo uu
+xanaaneyn jiray iyadoo xilgaas cidahooda
+ay degenaayeen aaga Ceel-gaab.
+Jaale Maxamed Siyaad Barre wuxuu
+1919kii ku dhashay tuulada Shilaafo ee
+gobolka Soomaali Galbeed ee ku dhaqan
+maanta wadanka Itoobiya. Jaaluhu wuxuu
+ka soo jeedaa beesha Mareexaan ee
+Daarood, gaar ahaan lafta reer Diini.\n\nWaalidkiis waxay dhinteen isaga oo
+toban jir ah.\n\n\n
+Sanadihii Hore
+Ka dib markuu dhamaystey
+waxbarashodiisa dugsiga hoose
+magaalada Luuq ee koonfurta Soomaaliya,
+ayaa Mudane Barre u wareegay
+magaalada Muqdisho oo ahayd magaalo
+madaxdii maamulkii Soomaali Talyaani, si
+uu u sii kordhisto waxbarashadiisa oo
+dugsi sare u galo asaga oo wakhtigaasi
+sheegtay inuu ka soo jeedo magaalada
+Garbahaarey. Sanadihii ku xigey
+Siyaad Barre waxaa u suurto gashay in loo
+qaato askari darajo sare oo Ciidanka
+Amaanka ah taasi oo ku beegan sanadkii
+1940kii. Goortii ay Koonfurta Soomaaliya
+hoos tegtay maamulkii Boqortooyada
+Ingiriiska ayaa wuxuu ka gaadhay ciidanka
+xooga darajadii ugu sareeysay ee nin
+Soomaali ah gaadho wakhtigaasi.\n\n\n
+Sanadihii 1950kii, markii Qaramada
+Midoobay la wareegtay maamulka iyo
+gacan ku heynta dhulka Soomaaliya
+ayadoo u wakiilatay dowlada Talyaaniga
+ayaa Jaale Maxamed Siyaad Barre u helay
+fursad deeq waxbarasho ku saabsan
+ciidanka inuu u tego wadanka Talyaaniga
+halkaas oo uu ku sugnaa wakhti labo sano
+ah.\n\n\n Goortii uu ku soo noqdey dalka
+Soomaaliya wuxuu noqdey ku xigeenka
+hogaamiyaha sare ee Ciidanka Xooga
+halkaasi oo uu sii hayay ilaa wakhtigii
+wadanku xornimada qaatey sanadkii
+1960kii. Tabobaro iyo dhoolatusyo milatari
+uu la qaatey saraakiil ka tirsan ciidanka
+xooga Midowga Sofiyet ayaa Jaale Siyaad
+ku beertay inuu u ololeeyo nidaamka
+shuuciga ahaa ee loo yaqaaney Marsiisam.\n\n\n
+Sidoo kale wuxuu si adag u aaminsanaa
+wadaniyad iyo mideeynta Shanta
+Soomaaliyeed.
+Sanadkii 1969kii ayaa dil shirqool ah loo
+geeystay madaxweynihii dalka haystey
+Cabdirashiid Cali Sharmaarke, taas oo
+Qabsigii Xukunka
+buuq iyo is af-garanwaa ka dhex dhalisey
+madaxdii sare ee wadanka Soomaaliya
+ayagoo isku afgaran waayay cida xilka la
+wareegi lahayd iyo maamulka. Maalintii ku
+xigtey aaskii Madaxweyne Sharmaarke oo
+ku beegnayd 21kii Oktoobar ayaa ciidanka
+xooga oo uu hogaaminayo Jaale Siyaad
+Barre iyo rag kale ayaa afgambi si lama
+filaan ah ku qabsadey wadanka.\n\n\n Jeneraal
+sare Salaad Gabeyre Kediye iyo
+Hogaamiyaha sare ee ciidanka amaanka
+Jaamac Korshel ayaa ka mid ahaa raga
+safka hore kaga jirey ee suurtogeliyey in
+afgambigu si guul ah ku dhaco. Mudane
+Kediye wuxuu ahaa oo lagu
+magacaabayay "Aabaha Kacaanka" in
+kastoo wakhti yar ka dib uu Jaale Siyaad
+kala wareegay magacaasi oo asagu
+noqdey aabaha kacaanka iyo
+hogaamiyaha ugu sareeya ee Kacaanka
+Umada Soomaaliyeed.\n\n\n
+Isla markiiba kacaanku wuxuu magaca
+wadanka ka dhigey Jamhuuriyada
+Dimuqraadiga Soomaaliya, waxay
+xadhig u taxaabeen dhamaan xubnihii ka
+tirsanaa dowladii hore ee Cabdirashiid Cali
+Sharmaarke, ila markaana waxay
+mamnuuceen xisbiyo siyaasadeed in laga
+sameeyo wadanka kuwaasi oo la tartami
+kara xisbiga kacaanka.\n\n\n Waxaa intaasi
+dheerayd oo xisbiga kacaanku si dhakhso
+ah u bedelay xubnihii baarlamaanka iyo
+maxkamada sare ee wadanka, isla
+markaana waxaa xisbia kacaanku ku
+dhawaaqey in dastuurka wadanku xaniban
+yahay intii wakhti ah ee dib u habayn lagu
+sameeynayo, taasi oo wakhtigaasi
+wadanka lagu maamulaayey dastuur ku
+meel gaadh ah oo xisbiga kacaanku
+leeyihiin.\n\n\n
+Madaxweyne Siyaad
+Wakhti yar xukunka iyo hogaaminta
+Xisbiga Kacaanka Umada ayaa Jaale
+Siyaad Barre wuxuu qaatey magaca
+Guulwade asagoo isku fidiyey maamulka
+iyo hogaanka dowlada cusub ee markaasi
+Jaale Siyaad Barre iyo mid ka mida madaxdii
+Romania, Nicolae Ceaușescu, sanadkii 1976
+taaboqaadeysay. Astaamo sawiro iyo
+sanamyo Guulwade Siyaad, Karl Marx iyo
+Lenin ayaa isla markiiba lagu sharaxay
+laamiyada magaalo madaxda wadanka ee
+Muqdisho, midaasi oo astaan iyo cadayn u
+ahayd nidaamka cusub ee xisbiga
+kacaanku ku soo dabaqayo wadanka.\n\n\n
+Sidoo kale wuxuu soo bandhigey
+nidaamyo cusub oo sharciyo hanti-wadaag
+ah kuwaasi oo ku salaysan Quraanka,
+fikrada shuucinimada ee Marsiisamka iyo
+qadiyad qoto dheer oo wadaniyad iyo
+Soomaali jeceyl.
+Golaha Sare ee Kacaanka
+Golaha Sare ee Kacaanku wuxuu si
+dhakhso ah u sameeyay mashruucyo
+bulsho oo aad u horumariye
+magaalooyinka iyo baadiyaha, kuwaasi oo
+iskugu jirey olole waxbarasho iyo iska-waxu-
+qabso dhismooyin ceelal, biyo-xidheeno,
+beero waawayn, laamiyo, jidad waawayn,
+dugsiyo, cusbitaalo, goobo bulshu iyo
+kuwo kale oo badan.\n\n\n Dadaalkaasi
+wadanka dhiska ah waxaa dhex socotay
+wacyigelin wadaniyad iyo qadiyad ah
+mideeynta shanta Soomaaliyeed oo la
+dhex wado in wadanka la warshadeeyo.
+Sidoo kale wakhtiyadan ayay dowlada
+Soomaaliya ku biirtey ururka Jaamacada
+Carabta oo aanay horey xubin uga ahayn.
+Intaasi waxaa dheer in sanadkaa 1974kii
+Guulwade Maxamed Siyaad Barre in uu
+noqdey hogaamiyaha sare ee ururka
+Midowga Afrika xilkaasi oo uu hayay mudo
+dhowr sano ah.\n\n\n
+Bishii Luuliyo 1976dii ayaa xisbigii
+Guulwade Siyaad Barre baabi iyey Golihii
+Sare ee Kacaanka midaasi ooy ku
+bedeleen Xisbiga Kacaanka Umada
+Soomaaliya|, midkaasi oo ku salaysnaa
+fikrada ah hal dowlad oo wadanka ku
+maamusha sharciga bulshada iyo diinta
+Islaamka, midaasi oo qorshuhu ahaa in a
+la is waafajiyo dhaqanka bulshada reer
+guuraaga ee Soomaaliyeed iyo nidaamka
+Shuuciga isla markaana meelo badan laga
+soo xigto kitaabka Quraanka.
+Xisbiga Kacaanka Umada Soomaaliyeed
+wuxuu ku dhawaaqey sinaan, cadaalad,
+horumarka bulshada, wax-wada-qeybsi iyo
+horay u socod.Sanadkii 1979kii ayaa
+xisbiga kacaanku wuxuu qabtey doorasho
+Golaha Bulshada ah si loogu codeeyo
+dastuur iyo sharciyo cusub ooy keeneen.\n\n\n
+Si kastaba ha ahaatee waxanka waxaa
+talada ugu sareeysa mar kasta lahaa oo
+ugu awood badnaa Xibiga Kacaanka
+Bulshada oo Guulwade Maxamed Siyaad
+Barre hogaamiye u ahaa.\n\n\n
+Wadaniyad iyo Soomaali Weyn
+siyasadii kacanka somaliya wafashilantay
+markii rushkii aay ku tirsanayd ka
+hortimid,sida laga warqabo somalida
+waqtigas waxa gacanta ku hayey
+wadamada,hanti wadaga oo rushuku ugu
+horeyo,markii wadamadii aay ku tirsanayd
+aay ka hortimid somalidu waxay ugurtey
+wadamada reer galbedka,kuwas oo
+somalida ucilqabay,taso ka dhalay
+shuciyada somalidu dhexgashay,markii
+wadamada rer galbedku somalida xirirkodi
+hore solabtay shiciyadina mesha
+kabaxaday.\n\n\nWaxa dhacday in wadanka
+siyasadisa sikale isu badashay,waxay so
+jediyen in wadanka dorasho xor ah ka
+dhacdo oo laga boxo xisbi kaliya,ama
+madaxweynaha shaqada ka faristo,arinasi
+ma suro galin,duqina xilkii wa laga fujin
+wayey oo qolyihi rer galbedka waxay
+sameyen in wadanka la-afgabniyo oo xilka
+wadanka uu qabto qof aay siyasadisa reer
+galbedka ujanjerto,hase yeshe arinatsi
+sikale ayey noqotay.\n\n\n
+        Somaliya waxay isu
+badashay dagal sokeye oo dabo
+dheraday,oo waxa la oran kara galadii
+waxay ku fashilmen waxii aay somaliya
+ladonayen oo waxay qaday wado khaldan
+oo aan lagu tala galin,ila wadamadi
+somalalya afganbiyey ee reer galbedka
+laftigodi ku halagsamen oo dad badan uga
+dhintay khiyamadii aay galen aay
+larogmatay.
+    </string>
+    <string name="taariikhdaDalka">
+        Soomaaliya waa dal ku yaalo Geeska Afrika, wuxuuna ku fadhiyaa dhul baaxadiisu dhantahay
+        635.541km2. \nnWaxana uu xuduud la wadaagaa Gacanka Cadmeed oo ka xigta Woqooyiga,
+        Jabuuti oo ka xigta Woqooyi galbeed, Itoobiya oo ka xigta dhanka Galbeed,Kenya oo ka
+        xigta dhanka Koonfureed iyo Badweynta Hindiya oo ka xigta dhanka Bari. \n\nSoomaaliya waxee
+        ka midtahay wadamada ugu xeebta dheer caalamka, waa wadanka ugu xeebta dheer qaarada
+        afrika, dhirirka xeebta soomaaliya waa 3333km.\n\n\nTirada dadka Soomaaliyeed waxaa lagu
+        qiyaasaa 12,000,000 oo qof. 60% Soomaalidu waa dad reer baadiya ah , 20% waa dad reer
+        magaal ah, 15% waa dad beeralay ah iyo 5% oo ah dad Kaluumayato ah.\n\n\nQarnigii toban iyo
+        sagaalaad\n1875kii waxay ahayd markii ugu horaysay ee gumaystayaashii Ingriiska,
+        Faransiiska, iyo Talyaanigamarka ay soo cago dhigeen gayiga Soomaaliyeed. \n\n\nIngriiska
+        oo maamulayey Cadan (Yamen), wuxuu go aansaday in uu lug ku yeesho dhinaca kale ee
+        Gacanka Cadmeed (Berbera). \n\nIngriisku wuxuu ku fakerayey in si uu u ilaashado
+        maraakiibtiisa ka imanaysa India, ee maraysa badda cas ay lagama maarmaan tahay in uu
+        hanto Berbera. \n\nFransiisku wuxuu isna ku fekaray in halka ugu dhaw ee uu Ingriiska ka
+        carqaladaynkaro uu yahay isaga oo Djibouti deegaan ku yeesha. Ingriiska markaas wuxuu ka
+        waday Bariga Africa dhisitaan khad tareen oo isku xidha wadamada Bariga Africa.
+        \n\nTalyaaniguna wuxuu markaas lawareegay gacan kuhanynta Koonfurta Soomaaliya oo aan
+        markaas ahayn dhul leh ahmiyad lamid ah kan dhinaca waqooyi ee Soomaaliya. Maadaama
+        Ingriisku aanuu aad u danaynayn Koonfurta Soomaaliya.\nTalyaaniga waxay u noqotay tani
+        fursad uu ku doodo in uu kamid yahay wadamada reer Europe ee wax gumaysta.1900.
+        \n\n\nBoqorkii Ethiopia Menelik wuxuu qabsaday dhulka Soomaali-galbeed. "
+
+    </string>
+</resources>
