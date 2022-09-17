@@ -9,3 +9,5 @@ Fadlan hadii aad ka heshay ama fikrad inoo heyso qeybta rates-ka inoogu reeb.
 
 Linkigaan hoose ka tijaabi.
 - https://play.google.com/store/apps/details?id=com.farhanmadka.game
+
+.![image](https://user-images.githubusercontent.com/49002284/190847604-9e9c5497-874e-4a58-97cb-3857eb094084.png)
